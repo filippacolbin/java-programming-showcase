@@ -1,6 +1,6 @@
 # Filippa Colbin's Java Projects
 
-A collection of school projects showcasing my software development skills in Java
+"This repository contains Java projects from my studies, showcasing my programming skills."
 
 ## Folder Structure
 
