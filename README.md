@@ -15,3 +15,6 @@ This repository contains multiple Java projects that I have developed as part of
 - **file-handling/**  
   - `CashRegisterSystem.java` – Manages items, sales, and maintains a sales history.  
   - `LibrarySystem.java` – Simple library system for adding, removing, loaning, and returning books.
+ 
+## License
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
