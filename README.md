@@ -16,5 +16,8 @@ This repository contains Java projects from my studies, showcasing my programmin
   - `CashRegisterSystem.java` – Manages items, sales, and maintains a sales history.  
   - `LibrarySystem.java` – Simple library system for adding, removing, loaning, and returning books.
  
+- **Interactive Walking Route Planner/**
+- `A JavaFX application that allows users to create and visualise a walking network on a map. Users can add and connect locations, assign walking times to routes, and find paths between selected locations using Depth-First Search (DFS) or Breadth-First Search (BFS).
+ 
 ## License
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
