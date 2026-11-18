@@ -17,7 +17,9 @@ This repository contains Java projects from my studies, showcasing my programmin
   - `LibrarySystem.java` – Simple library system for adding, removing, loaning, and returning books.
  
 - **Interactive Walking Route Planner/**
-- `A JavaFX application that allows users to create and visualise a walking network on a map. Users can add and connect locations, assign walking times to routes, and find paths between selected locations using Depth-First Search (DFS) or Breadth-First Search (BFS).
+  - A JavaFX application developed as part of a university group project. The application allows users to create and visualise a walking network on a map. Users can add and connect locations, assign walking times to routes, and find paths between selected locations using Depth-First Search (DFS) or Breadth-First Search (BFS).
+
+  - The project demonstrates collaborative software development, object-oriented programming, graph data structures, pathfinding algorithms, and separation of application logic and user interface.
  
 ## License
 This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
